@@ -82,3 +82,22 @@ div{
     top:4px;
     left:10px;
 }
+.belt{
+    height:25px;
+    width:150px;
+    background: red;
+    border-radius: 20% 20% 20% 20%;
+    position: absolute;
+    top:190px;
+    left:30px;
+
+}
+.bell{
+    height:25px;
+    width:25px;
+    border-radius: 50%;
+    background: yellow;
+    position: absolute;
+    top:200px;
+    left:90px;
+}
